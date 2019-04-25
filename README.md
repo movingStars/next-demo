@@ -4,10 +4,10 @@ Install it and run:
 
 ```
 npm install
-dev:
+####dev:
 npm run dev
-build:
+####build:
 npm run build
-export static page:
+####export static page:
 npm run export
 ```
